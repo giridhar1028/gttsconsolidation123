@@ -52,7 +52,7 @@
     "tedious": "^6.3.0",
     "tedious-promises": "^0.4.1",
     "video-react": "^0.14.1",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start nodemon index.js",
